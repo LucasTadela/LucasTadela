@@ -21,4 +21,4 @@ Here are the technologies used.
 
 - Thanks for visiting.
 - Please follow github and join us!
-- 🎵 :musical_note:
+- musical_note:
